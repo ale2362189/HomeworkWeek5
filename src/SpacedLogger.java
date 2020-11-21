@@ -1,4 +1,6 @@
 
+
+// test comment
 public class SpacedLogger implements Logger{
 	
 	 
